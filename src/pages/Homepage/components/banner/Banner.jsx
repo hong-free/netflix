@@ -4,8 +4,8 @@ import { Alert } from "bootstrap";
 import "./Banner.style.css";
 
 const Banner = () => {
-  const { data } = usePopularMoviesQuery();
-  console.log("AAAAA", data);
+  // const { data } = usePopularMoviesQuery();
+
   
   return (
     <div>
